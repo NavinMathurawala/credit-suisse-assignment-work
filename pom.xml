@@ -8,7 +8,7 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.serverLog</groupId>
+	<groupId>com.creditsuisse.serverLo</groupId>
 	<artifactId>serverLogService</artifactId>
 	<version>1.0.0</version>
 	<name>serverLogService</name>
