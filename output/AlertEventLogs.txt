@@ -1,0 +1,2 @@
+{"id":"scsmbstgra","duration":5,"alert":true,"type":"APPLICATION_LOG","host":"12345"}
+{"id":"scsmbstgrc","duration":8,"alert":true,"type":null,"host":null}
